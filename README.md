@@ -1,4 +1,4 @@
-<p align="center">
+<p>
     <img src="https://raw.githubusercontent.com/christiansiewert/aaas-api/develop/docs/logo.png" alt="API as a Service" />
 </p>
 
@@ -10,7 +10,7 @@
 [![Documentation Status](https://readthedocs.org/projects/aaas-api/badge/?version=latest)](https://aaas-api.readthedocs.io)
 [![Latest Tag](https://img.shields.io/github/tag/christiansiewert/aaas-api.svg?)](https://github.com/christiansiewert/aaas-api/releases)
 
-This is the API for _API as a Service_. Test.
+This is the API for _API as a Service_.
 
 With _API as a Service_ you can easily build PHP APIs via a GUI. The administration user interface is an independent application and separated from the rest of the system. 
 
@@ -29,15 +29,15 @@ If you are interested in installing our application, take a look at [INSTALL.md]
 
 ##### Create your data models and field definitions
 
-<img src="https://raw.githubusercontent.com/christiansiewert/aaas-api/develop/docs/images/readme_example_01.png" />
+<img alt="example" src="https://raw.githubusercontent.com/christiansiewert/aaas-api/develop/docs/images/readme_example_01.png" />
 
 ##### Generate your API and migrate your system
 
-<img src="https://raw.githubusercontent.com/christiansiewert/aaas-api/develop/docs/images/readme_example_02.png" />
+<img alt="example" src="https://raw.githubusercontent.com/christiansiewert/aaas-api/develop/docs/images/readme_example_02.png" />
 
 ##### You can use your generated API for building apps, websites, etc.
 
-<img src="https://raw.githubusercontent.com/christiansiewert/aaas-api/develop/docs/images/readme_example_003.png" />
+<img alt="example" src="https://raw.githubusercontent.com/christiansiewert/aaas-api/develop/docs/images/readme_example_003.png" />
 
 [Wiki]: https://aaas-api.readthedocs.io
 [INSTALL.md]: https://github.com/christiansiewert/aaas-api/blob/develop/INSTALL.md
